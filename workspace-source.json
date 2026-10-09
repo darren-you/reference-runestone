@@ -1,0 +1,7 @@
+{
+  "upstream_repository": "https://github.com/nekohasekai/Runestone",
+  "upstream_commit": "baeb3cbf8332d26b4f7b4c175a01f288ebbf3e7f",
+  "purpose": "工作区固定参考依赖；保留源码、普通测试与文档工具，退出 GitHub Actions",
+  "source_owner": "darren-space",
+  "source_issue": "https://github.com/darren-you/darren-space/issues/64"
+}
